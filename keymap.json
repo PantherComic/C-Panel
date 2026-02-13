@@ -1,17 +1,25 @@
 {
-    "comment": "Konfiguration für 4 Encoder und 6 Switches",
-    "encoders": [
-        {"cw": "VOL_UP", "ccw": "VOL_DOWN", "push": "MUTE", "name": "Audio"},
-        {"cw": "SCROLL_DOWN", "ccw": "SCROLL_UP", "push": "ENTER", "name": "Scroll"},
-        {"cw": "TAB_RIGHT", "ccw": "TAB_LEFT", "push": "SPACE", "name": "App-Switch"},
-        {"cw": "ZOOM_IN", "ccw": "ZOOM_OUT", "push": "R", "name": "Zoom"}
-    ],
+    "_comment": "This is the keymap configuration for the C_Panel. Parts are numbered from left to right.",
     "switches": [
-        {"cmd": "CTRL+C", "name": "Copy"},
-        {"cmd": "CTRL+V", "name": "Paste"},
-        {"cmd": "CTRL+Z", "name": "Undo"},
-        {"cmd": "WIN+SHIFT+S", "name": "Screen"},
-        {"cmd": "F13", "name": "Mic Mute"},
-        {"cmd": "MEDIA_PLAY_PAUSE", "name": "Play/Pause"}
+        {"cmd": "A", "label": "Aktion A"},
+        {"cmd": "B", "label": "Aktion B"},
+        {"cmd": "CTRL+C", "label": "Copy"},
+        {"cmd": "CTRL+V", "label": "Paste"},
+        {"cmd": "WIN+D", "label": "Desktop"},
+        {"cmd": "F13", "label": "Mic Mute"},
+        {"cmd": "SPACE", "label": "Space"},
+        {"cmd": "ENTER", "label": "Enter"}
+    ],
+    "encoder_buttons": [
+        {"cmd": "MUTE", "label": "Mute"},
+        {"cmd": "PLAY_PAUSE", "label": "Play/Pause"},
+        {"cmd": "ESC", "label": "Escape"},
+        {"cmd": "TAB", "label": "Tab"}
+    ],
+    "encoders": [
+        {"cw": "VOL_UP", "ccw": "VOL_DOWN", "label": "Volume"},
+        {"cw": "NEXT_TRACK", "ccw": "PREV_TRACK", "label": "Track"},
+        {"cw": "RIGHT_ARROW", "ccw": "LEFT_ARROW", "label": "Scroll H"},
+        {"cw": "UP_ARROW", "ccw": "DOWN_ARROW", "label": "Scroll V"}
     ]
 }

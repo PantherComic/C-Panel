@@ -1,0 +1,46 @@
+{
+    "_note": "This is just a cheat sheet for copying. DO NOT use this as keymap.json, as the structure is different!",
+
+    "media_and_volume": [
+        {"cmd": "VOL_UP", "label": "Volume Up"},
+        {"cmd": "VOL_DOWN", "label": "Volume Down"},
+        {"cmd": "MUTE", "label": "Mute"},
+        {"cmd": "PLAY_PAUSE", "label": "Play/Pause"},
+        {"cmd": "NEXT_TRACK", "label": "Next Track"},
+        {"cmd": "PREV_TRACK", "label": "Prev Track"},
+        {"cmd": "CTRL+SHIFT+M", "label": "Mic Mute"}
+    ],
+
+    "navigation_and_arrows": [
+        {"cmd": "UP_ARROW", "label": "Up"},
+        {"cmd": "DOWN_ARROW", "label": "Down"},
+        {"cmd": "LEFT_ARROW", "label": "Left"},
+        {"cmd": "RIGHT_ARROW", "label": "Right"},
+        {"cmd": "TAB", "label": "Tab"},
+        {"cmd": "ESC", "label": "Escape"},
+        {"cmd": "SPACE", "label": "Spacebar"},
+        {"cmd": "ENTER", "label": "Enter"}
+    ],
+
+    "classic_shortcuts": [
+        {"cmd": "CTRL+C", "label": "Copy"},
+        {"cmd": "CTRL+V", "label": "Paste"},
+        {"cmd": "CTRL+X", "label": "Cut"},
+        {"cmd": "CTRL+Z", "label": "Undo"},
+        {"cmd": "CTRL+A", "label": "Select All"},
+        {"cmd": "ALT+TAB", "label": "Switch App"},
+        {"cmd": "WIN+D", "label": "Show Desktop"}
+    ],
+
+    "system_and_security": [
+        {"cmd": "WIN+L", "label": "Lock PC"},
+        {"cmd": "CTRL+SHIFT+ESC", "label": "Task Manager"},
+        {"cmd": "CTRL+ALT+DELETE", "label": "Security"}
+    ],
+
+    "streaming_and_macros": [
+        {"cmd": "F13", "label": "Stream Start"},
+        {"cmd": "F14", "label": "Scene 1"},
+        {"cmd": "F15", "label": "Scene 2"}
+    ]
+}

@@ -31,9 +31,9 @@ Features **8 mechanical switches** and **4 rotary encoders**, providing instant 
 
 ## 🖨️ 3D-Printing
 * **Designed with Fusion and Printed on a BambuLab A1 mini**
-* Case
-* Case closure
-* Keycaps
+- Case
+- Case closure
+- Keycaps
 * **Exception:** Encoder Knob by Kea Workshop (https://makerworld.com/en/models/628840-ec11-encoder-knob#profileId-593261)
 
 ## 🚀 Installation

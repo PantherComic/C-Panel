@@ -29,6 +29,10 @@ Features **8 mechanical switches** and **4 rotary encoders**, providing instant 
 * *Right Screen:* I2C0 (GP26/GP27)
 * *Switches & Encoders:* Mapped in `code.py`
 
+## 🪛 PCB
+* Designed with Fusion
+* Produced by PCBWay (https://www.pcbway.com/)
+
 ## 🖨️ 3D-Printing
 * **Designed with Fusion and Printed on a BambuLab A1 mini**
 - Case

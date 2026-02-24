@@ -99,11 +99,11 @@ SH1106 displays technically have a 132x64 RAM buffer, while standard panels show
 
 ```text
 CIRCUITPY/
-├── lib/               # CircuitPython Libraries
-├── code.py            # Main Logic
-├── keymap.json        # User Configuration
-├── keymap_archive     # Possible User Configs
-└── font5x8.bin        # Binary font file (REQUIRED)
+├── lib/                   # CircuitPython Libraries
+├── code.py                # Main Logic
+├── keymap.json            # User Configuration
+├── keymap_archive.json    # Possible User Configs
+└── font5x8.bin            # Binary font file (REQUIRED)
 
 ```
 

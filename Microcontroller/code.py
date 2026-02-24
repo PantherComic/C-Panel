@@ -109,7 +109,7 @@ def run_cmd(cmd):
 
 def reset_screens():
     draw(disp1, "C-Panel", "")
-    draw(disp2, "Dreifex", "")
+    draw(disp2, "XXX", "")
 
 # --- MAIN LOOP ---
 cfg = load_conf()

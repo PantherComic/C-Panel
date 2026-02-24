@@ -4,7 +4,7 @@ A high-performance, dual-screen macro pad powered by the **Raspberry Pi Pico (RP
 
 Features **8 mechanical switches** and **4 rotary encoders**, providing instant visual feedback on two independent OLED screens. It uses a custom highly-optimized display driver to bypass standard CircuitPython limitations.
 
-*(Replace this link with a real photo of your build!)*
+![PXL_20260219_013046610](https://github.com/user-attachments/assets/216e69b3-2feb-4440-86c3-849d43b369ea)
 
 ## ✨ Features
 

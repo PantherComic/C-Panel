@@ -102,6 +102,7 @@ CIRCUITPY/
 ├── lib/               # CircuitPython Libraries
 ├── code.py            # Main Logic
 ├── keymap.json        # User Configuration
+├── keymap_archive     # Possible User Configs
 └── font5x8.bin        # Binary font file (REQUIRED)
 
 ```
